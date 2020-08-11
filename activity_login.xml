@@ -9,14 +9,14 @@
 
 
     <TextView
-        android:id="@+id/textView3"
+         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/aladin"
+        android:fontFamily="@font/aclonica"
         android:text="@string/bhavanavishkar"
         android:textAllCaps="false"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="#9A1309"
+        android:textColor="#FFD180"
         android:textSize="36sp"
         android:textStyle="bold|italic"
         app:layout_constraintBottom_toBottomOf="parent"
