@@ -8,6 +8,28 @@
     tools:context=".Register">
 
 
+    <EditText
+        android:id="@+id/NumberPassword1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@color/design_default_color_background"
+        android:ems="10"
+        android:hint="Password(numeric)"
+        android:inputType="numberPassword"
+        android:padding="10dp"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.406" />
+
     <RadioButton
         android:id="@+id/radioButton2"
         android:layout_width="wrap_content"
@@ -86,7 +108,7 @@
         app:layout_constraintVertical_bias="0.23" />
 
     <EditText
-        android:id="@+id/editTextPhone1"
+        android:id="@+id/Phone1"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -110,7 +132,7 @@
         app:layout_constraintVertical_bias="0.319" />
 
     <EditText
-        android:id="@+id/NumberPassword"
+        android:id="@+id/NumberPassword2"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -119,33 +141,9 @@
         android:layout_marginRight="16dp"
         android:background="@color/design_default_color_background"
         android:ems="10"
-        android:hint="Password(numeric)"
+        android:hint="Confrim Password(numeric)"
         android:inputType="numberPassword"
         android:padding="10dp"
-        android:textSize="16sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.406" />
-
-    <EditText
-        android:id="@+id/editTextPhone2"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginEnd="16dp"
-        android:layout_marginRight="16dp"
-        android:background="@color/design_default_color_background"
-        android:ems="10"
-        android:hint="Emergency Phone no."
-
-        android:inputType="phone"
-        android:padding="10dp"
-        android:paddingEnd="10dp"
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -206,7 +204,7 @@
         app:layout_constraintVertical_bias="0.826" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/LogIn"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
 
@@ -265,7 +263,8 @@
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:textStyle="bold"
         app:layout_constraintBaseline_toBaselineOf="@+id/radioButton2"
-        app:layout_constraintStart_toEndOf="@+id/radioButton2" />
+        app:layout_constraintStart_toEndOf="@+id/radioButton2"
+        android:onClick="btn_Login"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
