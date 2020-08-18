@@ -52,6 +52,8 @@ Emotion Categories:
 # Result of CNN model
    Loss vs Epoch
    
+   ![Screenshot (1226)](https://user-images.githubusercontent.com/64628671/90514167-70a1c400-e17e-11ea-8970-e5e5519010be.png)
+   
    
 
 
