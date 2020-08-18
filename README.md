@@ -31,6 +31,29 @@ For the advanced usage of the speech emotion recognition, instead of using featu
 # Multimode Speech Emotion Recognition
 ![Screenshot (1221)](https://user-images.githubusercontent.com/64628671/90513550-72b75300-e17d-11ea-9227-35d8e934cedf.png)
 
+# Data set
+Emotion Dimensions:
+•	Activation
+•	Valence
+•	Dominance
+
+
+Emotion Categories:
+•	Anger
+•	Happiness
+•	Sadness
+•	Neutral
+•	Fear, Disgust, Surprise
+
+# Music App suggesting music based on persons mood 
+
+   Speech Emotion Recognition has a grate application in Music stream. Using human emotion one can easily find what exact music or song he/she wants to here rather than keeping viewing on various songs and wasting time on it. Thus using emotion this music app can predict your emotional mood and recommend you the best suitable song. Thus the same process can be carried out for recommending the podcast, music and even music as per the persons emotion predicted as per speech. This will lead the music and human interaction to a greater extent. Providing annotations and emotion judgements is difficult due to the difference in interpretation from person to person but now using a CNN this has helped to train the machine to predict the exact emotion of human. 
+   
+# Result of CNN model
+   Loss vs Epoch
+   
+
+
 
 
 
