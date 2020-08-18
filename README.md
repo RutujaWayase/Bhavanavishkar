@@ -54,6 +54,18 @@ Emotion Categories:
    
    ![Screenshot (1226)](https://user-images.githubusercontent.com/64628671/90514167-70a1c400-e17e-11ea-8970-e5e5519010be.png)
    
+   Input and Output
+   
+   ![Screenshot (1227)](https://user-images.githubusercontent.com/64628671/90514368-b78fb980-e17e-11ea-9fae-ea164380a503.png)
+
+   Confusion Matrix
+   
+   ![Screenshot (1228)](https://user-images.githubusercontent.com/64628671/90514399-c1b1b800-e17e-11ea-96bc-92e43a01e1b8.png)
+
+   Confusion Matrix for Gender Prediction
+   
+   ![Screenshot (1229)](https://user-images.githubusercontent.com/64628671/90514413-c6766c00-e17e-11ea-9ef3-316d09775d8a.png)
+   
    
 
 
