@@ -25,6 +25,13 @@ For the advanced usage of the speech emotion recognition, instead of using featu
 •	Surprise
 •	Neutral
 
+# Ideology
+![Screenshot (1218)](https://user-images.githubusercontent.com/64628671/90513339-1d7b4180-e17d-11ea-9a02-9fd85eb7a654.png)
+
+# Multimode Speech Emotion Recognition
+
+
+
 
 
 
