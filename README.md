@@ -7,3 +7,7 @@
  Humans are in use to express emotions to computers all the time whenever they come in touch with it. This has lead building of Human Computer interface to a next level where computers/machines can exactly understand the  real time  emotion state of a person and can handle the different programs accordingly and this eventually makes a better customer experience.
   
   On the same root, if a machine knowns the exact emotion state of a student then by assessing those emotions it can present the perfect match to a student maybe it be in notes, videos, slides, etc format which will create a fruitful Computer Aid Learning Technology which is the exact need in this pandemic situation.
+  
+ Speech Emotion Recognition can be used in various fields like gamer industry to understand the current emotion of a gamer which helps to known different frustration points while playing which can be further be improved upon. Human Emotion plays a vital role in a Marketing field which guide us to known the view reactions. This also can be implemented in automotive industry to avoid road rage  to make driver experience safer.
+
+ 
