@@ -11,3 +11,18 @@
  Speech Emotion Recognition can be used in various fields like gamer industry to understand the current emotion of a gamer which helps to known different frustration points while playing which can be further be improved upon. Human Emotion plays a vital role in a Marketing field which guide us to known the view reactions. This also can be implemented in automotive industry to avoid road rage  to make driver experience safer.
 
  
+![Screenshot (1214)](https://user-images.githubusercontent.com/64628671/90512479-db053500-e17b-11ea-92cf-3877f01986bd.png)
+
+For the advanced usage of the speech emotion recognition, instead of using feature engineering, deep learning is used. Deep learning includes both, the feature extraction and learning.
+
+# Emotion Representation 
+ Categories –    
+•	Anger
+•	Disgust
+•	Fear
+•	Happiness
+•	Sadness
+•	Surprise
+•	Neutral
+
+
