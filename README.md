@@ -3,3 +3,7 @@
 
 # Why Emotion   
   Emotion awareness improves customer experience. Which helps us to predict what exact feedback a customer has on a particular product what are the various problems, difficulties he/she faced. This will lead is better designing of a product and carrying out it in an efficient and effective manner. 
+ 
+ Humans are in use to express emotions to computers all the time whenever they come in touch with it. This has lead building of Human Computer interface to a next level where computers/machines can exactly understand the  real time  emotion state of a person and can handle the different programs accordingly and this eventually makes a better customer experience.
+  
+  On the same root, if a machine knowns the exact emotion state of a student then by assessing those emotions it can present the perfect match to a student maybe it be in notes, videos, slides, etc format which will create a fruitful Computer Aid Learning Technology which is the exact need in this pandemic situation.
