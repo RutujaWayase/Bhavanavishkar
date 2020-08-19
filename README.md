@@ -67,7 +67,9 @@ Emotion Categories:
    ![Screenshot (1229)](https://user-images.githubusercontent.com/64628671/90514413-c6766c00-e17e-11ea-9ef3-316d09775d8a.png)
    
    
-
+   PPT =       https://docs.google.com/presentation/d/11D2QWMdvXlB7GSN3IzUv4qVPfO_4gNwQt-ADpuOyDmk/edit?usp=sharing 
+   
+ Submission Folder =    https://drive.google.com/file/d/1UEiZHKl2RbHK9E8sZ3tXfviEesiAbhkS/view?usp=sharing
 
 
 
